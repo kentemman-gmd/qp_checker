@@ -5,12 +5,12 @@
 [general]
 name=QP Checker
 qgisMinimumVersion=3.0
-description=QPChecker
-version=0.1
+description=QP Checker is a QGIS plugin that allows users to streamline layer management by renaming, applying styles, and arranging base layers in a QGIS project. It includes functionality for selecting QML and QGS files, applying QML styles to specific layers, and organizing base layers in a specified order.
+version=0.2.7
 author=PSA
 email=test@gmail.com
 
-about=Provide a brief description of the plugin and its purpose.
+about=QP Checker is a custom QGIS plugin for managing and visualizing geographic data layers for the 2024 survey. It simplifies workflow by automating layer renaming, styling, and organization, ensuring consistency and improving readability in QGIS.
 
 tracker=http://bugs
 repository=http://repo
